@@ -1,0 +1,214 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\TEMP\Desktop\lab6start
+T_opt
+Z1 Vz[Y1J[j26ITRoiVDZge?B1
+Z2 04 6 4 work cpu_tb fast 0
+Z3 =1-3cd92b6113f2-582c610d-b4-e48
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;10.1d;51
+Z7 dC:\Users\TEMP\Desktop\lab6start
+vALU
+Z8 !s100 212j@gZdo[HD:eQYFdEOS1
+Z9 IPDBe9eYE`?I`J:=lCMaS;2
+Z10 VX<zN2F5Hgk[kloW_:KES<3
+R7
+Z11 w1479303365
+Z12 8C:/Users/TEMP/Desktop/lab6start/library.v
+Z13 FC:/Users/TEMP/Desktop/lab6start/library.v
+L0 13
+Z14 OL;L;10.1d;51
+r1
+31
+Z15 !s108 1479303516.569000
+Z16 !s107 constants.h|C:/Users/TEMP/Desktop/lab6start/library.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/TEMP/Desktop/lab6start/library.v|
+Z18 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z19 n@a@l@u
+!i10b 1
+!s85 0
+vcontrol_alu
+Z20 !s100 @8;mNW5lzT=]L[;]MX`h=0
+Z21 I`mC_:_8R12ikE]_[34:2[2
+Z22 V8dgKJc:cM]9EhRCZ3KiGm0
+R7
+Z23 w1479303265
+Z24 8C:/Users/TEMP/Desktop/lab6start/control.v
+Z25 FC:/Users/TEMP/Desktop/lab6start/control.v
+Z26 L0 146
+R14
+r1
+31
+Z27 !s108 1479303515.808000
+Z28 !s107 constants.h|C:/Users/TEMP/Desktop/lab6start/control.v|
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/TEMP/Desktop/lab6start/control.v|
+R18
+!i10b 1
+!s85 0
+vcontrol_bypass_ex
+Z30 !s100 B:1Cki5i@g:F_>FVH7SEK3
+Z31 IOUcOajE:V@nlKNl^fU3Ic3
+Z32 VM4SIRfmUC6^_XaUEc1o<f0
+R7
+R23
+R24
+R25
+L0 88
+R14
+r1
+31
+R27
+R28
+R29
+R18
+!i10b 1
+!s85 0
+vcontrol_main
+Z33 !s100 VUkN42JDH:<C<D6DAeV:h3
+Z34 IYDce^6DLCjcFdRLXo]H>T3
+Z35 Vh`eo?@7hD4H`7hGHA70<01
+R7
+R23
+R24
+R25
+L0 4
+R14
+r1
+31
+R27
+R28
+R29
+R18
+!i10b 1
+!s85 0
+vcontrol_stalls
+Z36 !s100 h:[>38FdYe>V`?14G8BTN3
+Z37 I2BBCnX@Wd9;H>Wz=enWlJ0
+Z38 V>A=Ll=RFg1`Z?dJ`iXzf73
+R7
+R23
+R24
+R25
+Z39 L0 119
+R14
+r1
+31
+R27
+R28
+R29
+R18
+!i10b 1
+!s85 0
+vcpu
+Z40 !s100 O1dFd=DKC;h3?U<JWRSoX2
+Z41 IDJnR2mgE46fbiP1[L7ZLh1
+Z42 V?U5jR0=k1C07SIS@iT@Le3
+R7
+Z43 w1479303419
+Z44 8C:/Users/TEMP/Desktop/lab6start/cpu.v
+Z45 FC:/Users/TEMP/Desktop/lab6start/cpu.v
+L0 5
+R14
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/TEMP/Desktop/lab6start/cpu.v|
+R18
+Z47 !s108 1479303516.272000
+Z48 !s107 C:/Users/TEMP/Desktop/lab6start/cpu.v|
+!i10b 1
+!s85 0
+vcpu_tb
+!i10b 1
+Z49 !s100 ohgPFRe>YI5=DV>N5?KmY3
+Z50 I3[bnWoWcd]Di6FdB9o<@?1
+Z51 V0P>[JOo>6KEkgKO=1CbUG0
+R7
+Z52 w1479217520
+Z53 8C:/Users/TEMP/Desktop/lab6start/testbench.v
+Z54 FC:/Users/TEMP/Desktop/lab6start/testbench.v
+L0 11
+R14
+r1
+!s85 0
+31
+Z55 !s108 1479303516.987000
+Z56 !s107 C:/Users/TEMP/Desktop/lab6start/testbench.v|
+Z57 !s90 -reportprogress|300|-work|work|C:/Users/TEMP/Desktop/lab6start/testbench.v|
+R18
+vinstr2str
+!i10b 1
+Z58 !s100 m@bC=B=1YX1S0z^@aj=SU3
+Z59 IHJ]7<S7e6[Qk3SkOG?Ic22
+Z60 V4=C3gA9YBOOA=nE1H^04f0
+R7
+R52
+R53
+R54
+Z61 L0 156
+R14
+r1
+!s85 0
+31
+R55
+R56
+R57
+R18
+vMemory
+Z62 !s100 XZDNbA`nTbAF611D^`1cV1
+Z63 Idfn=]OCnOe=L_K[j[633U2
+Z64 VWza;6GJgG?2R2n>B`Ia073
+R7
+R11
+R12
+R13
+L0 39
+R14
+r1
+31
+R15
+R16
+R17
+R18
+Z65 n@memory
+!i10b 1
+!s85 0
+vRegFile
+Z66 !s100 mPR^m[UNO<kDD_4F>nZA53
+Z67 Ic];`O0gRlWeoFPZoCKG972
+Z68 V>QfhlAg]]m0aIa`[62bXc2
+R7
+R11
+R12
+R13
+L0 72
+R14
+r1
+31
+R15
+R16
+R17
+R18
+Z69 n@reg@file
+!i10b 1
+!s85 0
+vstring_manipulation
+!i10b 1
+Z70 !s100 Gb]gAP2?P]J>i1lF7lnA[3
+Z71 I=]NgKhS6JR3M;LljVTK0L2
+Z72 VV@6PTR?nN[4I<QK9RaSl21
+R7
+R52
+R53
+R54
+Z73 L0 138
+R14
+r1
+!s85 0
+31
+R55
+R56
+R57
+R18
